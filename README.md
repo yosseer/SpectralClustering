@@ -1,8 +1,10 @@
-<h1 align ="center" ><strong>Spectral Clustering on Non-Convex Data</h1>
-  <p align="center">
+ <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 </p>
-    <p><strong>Presented by:</strong> Yosser Fhal</p>
+
+<h1 align ="center" ><strong>Spectral Clustering on Non-Convex Data</h1>
+ 
+  <p><strong>Presented by:</strong> Yosser Fhal</p>
     <p>This project demonstrates <strong>Spectral Clustering</strong> for grouping non-convex datasets, such as circular or complex shapes. The notebook provides step-by-step explanations and visualizations.</p>
 
 <div class="section">
